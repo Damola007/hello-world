@@ -1,5 +1,5 @@
 # hello-world
-practice
+practic
 
 Damola Adedoyin. learning how to use github and it features.
  <ul class="nav navbar-nav">
